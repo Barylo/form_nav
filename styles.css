@@ -1,7 +1,7 @@
 body {
-    background-image: url(/img/1.webp);
-   
-}
+       background-image: url(img/1.jpg);
+   }
+
 .main-container {
 display: flex;
 flex-direction: column;
